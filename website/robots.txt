@@ -1,0 +1,49 @@
+# robots.txt for 인천노래방 (https://www.xn--o39av1tvyl1ib95m90d.com/)
+# 완벽 SEO 최적화를 위한 robots.txt - 2025년 최신 표준
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /inquiry.html
+Allow: /#home
+Allow: /#about  
+Allow: /#services
+Allow: /#qna
+Allow: /#pickup
+Allow: /#events
+Allow: /#location
+Allow: /#contact
+
+# 우선순위 페이지 (중요 콘텐츠)
+Allow: /index.html#services
+Allow: /index.html#contact
+Allow: /inquiry.html
+
+# 사이트맵 위치 (메인 + 이미지)
+Sitemap: https://www.xn--o39av1tvyl1ib95m90d.com/sitemap.xml
+
+# 크롤링 속도 조절
+Crawl-delay: 1
+
+# 접근 제한 없음 (모든 봇 허용)
+Disallow:
+
+# 구글봇 특별 설정
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# 네이버봇 설정
+User-agent: NaverBot
+Allow: /
+Crawl-delay: 1
+
+# 다음 검색봇 설정  
+User-agent: DaumBot
+Allow: /
+Crawl-delay: 1
+
+# Bing 검색봇 설정
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1

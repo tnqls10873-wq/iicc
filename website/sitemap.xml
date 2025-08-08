@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- 메인 페이지 -->
+    <url>
+        <loc>https://www.xn--o39av1tvyl1ib95m90d.com/</loc>
+        <lastmod>2025-08-08T10:00:00+09:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://i.ibb.co/S74MqfZf/Image-fx-5-1.jpg</image:loc>
+            <image:title>인천노래방 프리미엄 내부 인테리어</image:title>
+            <image:caption>인천 주안역 최고급 가라오케 시설 - 인천노래방 하이퍼블릭</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://i.ibb.co/Sw96py6K/Image-fx-8-1.jpg</image:loc>
+            <image:title>인천노래방 서비스룸</image:title>
+            <image:caption>인천노래방 최신 음향시설 완비된 프라이빗 룸</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://i.ibb.co/WpgcR0Z8/Image-fx-9-1.jpg</image:loc>
+            <image:title>인천하이퍼블릭 VIP룸</image:title>
+            <image:caption>인천하이퍼블릭 최고급 시설과 프라이빗 서비스</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://i.ibb.co/3mVDQxwR/Image-fx-6-1.jpg</image:loc>
+            <image:title>인천노래방 무료 픽업서비스</image:title>
+            <image:caption>인천노래방 픽업서비스 - 주안역 가라오케 전용 차량</image:caption>
+        </image:image>
+    </url>
+
+    <!-- index.html 페이지 -->
+    <url>
+        <loc>https://www.xn--o39av1tvyl1ib95m90d.com/index.html</loc>
+        <lastmod>2025-08-08T10:00:00+09:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 모든문의 페이지 -->
+    <url>
+        <loc>https://www.xn--o39av1tvyl1ib95m90d.com/inquiry.html</loc>
+        <lastmod>2025-08-08T12:00:00+09:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://i.ibb.co/F4YHtSB0/Image-fx-7-1.jpg</image:loc>
+            <image:title>인천노래방 모든문의 가격상담</image:title>
+            <image:caption>인천노래방 24시간 가격문의 인천가라오케 예약상담 전용 페이지</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- 서비스 페이지 섹션별 URL -->
+    <url>
+        <loc>https://www.xn--o39av1tvyl1ib95m90d.com/index.html#about</loc>
+        <lastmod>2025-08-08T10:00:00+09:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.xn--o39av1tvyl1ib95m90d.com/index.html#services</loc>
+        <lastmod>2025-08-08T10:00:00+09:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.xn--o39av1tvyl1ib95m90d.com/index.html#contact</loc>
+        <lastmod>2025-08-08T10:00:00+09:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.xn--o39av1tvyl1ib95m90d.com/index.html#location</loc>
+        <lastmod>2025-08-08T10:00:00+09:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
