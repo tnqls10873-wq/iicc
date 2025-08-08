@@ -7,7 +7,7 @@
         <loc>https://iicc.vercel.app/</loc>
         <lastmod>2025-08-08T10:00:00+09:00</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <priority>0.9</priority>
         <image:image>
             <image:loc>https://i.ibb.co/S74MqfZf/Image-fx-5-1.jpg</image:loc>
             <image:title>인천노래방 프리미엄 내부 인테리어</image:title>
@@ -30,13 +30,6 @@
         </image:image>
     </url>
 
-    <!-- index.html 페이지 -->
-    <url>
-        <loc>https://iicc.vercel.app/index.html</loc>
-        <lastmod>2025-08-08T10:00:00+09:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
 
     <!-- 모든문의 페이지 -->
     <url>
